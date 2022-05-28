@@ -7,7 +7,6 @@ Hi, I’m @BiancaGallicchio !
  
  📫 How to reach me:
 - bibigatavares@gmail.com
-- @UmaPessoaHuman1 on Twitter (I don't use it often tough)
 
 <!---
 BiancaGallicchio/BiancaGallicchio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
